@@ -16,4 +16,5 @@ Python Spotify API will be used:
 - Tag all songs in library
 - Create real playlist by selecting a combination of tags
 - Each time a new song is added to a tag, this adds it to the playlist.
+
 Intelligent suggestions.. tbc
